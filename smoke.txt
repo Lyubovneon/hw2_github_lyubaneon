@@ -1,0 +1,13 @@
+Check list
+Type:
+Date:
+Invironment:
+Project:
+Project version:
+Tester:
+Title:
+ER:
+Result: passed/skipped/failed/not run
+AR:
+Bug link:
+
