@@ -81,17 +81,29 @@ Attachments:
 - **insert**
 ***
 Checklist
+
 Type:
+
 Date:
+
 Invironment:
+
 Project:
+
 Project version:
+
 Tester:
+
 Title:
+
 ER:
+
 Result: passed/skipped/failed/not run
+
 AR:
+
 Bug link:
+
 ***
 **Esc:wq**
 ### 8. *Запушить структуру на внешний репозиторий*
