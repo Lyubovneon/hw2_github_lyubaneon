@@ -1,21 +1,2 @@
-ID: 110920221
-Date submited: 22.11.2022
-Date updated:
-Reporter: @lyubov_neon
-Assigned to: Vadim
-Title: Fields are shown without required identification
-Invironment: Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64
-Severity: major
-Priority: high
-Reproducibility: always
-Status: assigned
-Resolution: open
-STR: 1. Open the http://itcareer.pythonanywhere.com
-     2. Pay attention to the browser tab
-AR: Fields are shown without required identification
-ER: Required fields are shown marked *(asterisk).
-Additional info: Mozilla Firefox 103.0.2 (64-bit), Microsoft Edge 104.0.1293.54
-Attachments: link_video, link_screenshort
-
-   
+This extension is deprecated as it is no longer being maintained
 
