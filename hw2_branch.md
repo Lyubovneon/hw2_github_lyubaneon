@@ -20,6 +20,7 @@ or
 ### *3. В ветке Bug Reports сделать текстовый документ со структурой баг репорта*
 - **git checkout** bug_report.txt
 - **vim** bug_report.txt
+- **insert**
 
 ***
 ID: 
@@ -77,6 +78,7 @@ Attachments:
 - **git checkout** CheckLists
 - **touch** checkList.txt
 - **vim** checklist.txt
+- **insert**
 ***
 Checklist
 Type:
